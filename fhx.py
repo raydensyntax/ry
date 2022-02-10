@@ -10,4 +10,9 @@ def mengetik(s):
 #ubah angka 0.1 sesuai keinginan kamu
 #angka terkecil adalah yang paling cepat
 #angka terbesar adalah yang paling lambat
-mengetik('hallo teman-teman w3wandroid\nselamat belajar dalam blog ilmu teknologi android\nterima kasih.')
+mengetik('LOGIN : raydennewbiejr@gmail.com\nPASSW : HujAi88uajjai8iaHTyhURSJL==<br>
+START : Pekanbaru/Riau/Sungai Siak\n
+END   : Jawa Barat/Kuningan\n
+DEVICE: Infinix HOT 10s\n
+NEW DE: Oppo CPH2083\n
+')
